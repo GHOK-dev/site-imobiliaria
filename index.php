@@ -1,6 +1,6 @@
 <?php include ('cabecalho.php');?>
     <!-- Masthead-->
-    <header class="masthead bg-primary text-white text-center">
+    <header class="masthead text-white text-center">
         <div class="container d-flex align-items-center flex-column">
             <!-- Masthead Avatar Image-->
             <img class="masthead-avatar mb-5" src="assets/img/avataaars.svg" alt="..." />
@@ -74,7 +74,7 @@
     </section>
 
     <!-- sobre Section-->
-    <section class="page-section bg-primary text-white mb-0" id="sobre">
+    <section class="page-section text-white mb-0" id="sobre">
         <div class="container">
             <!-- sobre Section Heading-->
             <h2 class="page-section-heading text-center text-uppercase text-white mb-5">Sobre nós</h2>
@@ -157,7 +157,7 @@
                             <div class="text-center text-danger mb-3">Error sending message!</div>
                         </div>
                         <!-- Submit Button-->
-                        <button class="btn btn-primary btn-xl disabled" id="submitButton" type="submit">Send</button>
+                        <button class="btn btn-xl text-body-tertiary" id="submitButton" type="submit">Enviar</button>
                     </form>
                 </div>
             </div>

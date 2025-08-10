@@ -1,4 +1,7 @@
 <?php include ('cabecalho.php');?>
+
+
+
     <!-- Masthead-->
     <header class="masthead text-white text-center">
         <div class="container d-flex align-items-center flex-column">
@@ -10,6 +13,10 @@
             <p class="masthead-subheading font-weight-light mb-0">Venda e aluguel de casas e apartamentos</p>
         </div>
     </header>
+
+
+
+
     <!-- casas Section-->
     <section class="page-section casas" id="casas">
         <div class="container">
@@ -73,6 +80,8 @@
         </div>
     </section>
 
+
+
     <!-- sobre Section-->
     <section class="page-section text-white mb-0" id="sobre">
         <div class="container">
@@ -96,6 +105,10 @@
             </div>
         </div>
     </section>
+
+
+
+
     <!-- contato Section-->
     <section class="page-section" id="contato">
         <div class="container">
@@ -163,6 +176,10 @@
             </div>
         </div>
     </section>
+
+
+
+    
     <!-- Footer-->
     <footer class="footer text-center">
         <div class="container">

@@ -18,6 +18,7 @@
         <link href="css/style.css" rel="stylesheet" />
     </head>
     <body id="page-top">
+        <?php include("conexao.php"); ?>
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
             <div class="container">

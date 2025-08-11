@@ -1,6 +1,4 @@
-<?php include ('cabecalho.php');?>
-
-
+<?php  include ('cabecalho.php');  ?>
 
     <!-- Masthead-->
     <header class="masthead text-white text-center">
@@ -232,7 +230,7 @@
                                 <!-- casas Modal - Image-->
                                 <img class="img-fluid rounded mb-5" src="assets/img/casas/cabin.png" alt="..." />
                                 <!-- casas Modal - Text-->
-                                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                <?php   include('select-dados.php');   echo "<p class='mb-4'>".   htmlspecialchars($dado['descricao'])  ."</p>";    ?>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
                                     <i class="fas fa-xmark fa-fw"></i>
                                     Close Window

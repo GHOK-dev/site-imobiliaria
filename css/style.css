@@ -1,7 +1,15 @@
 .masthead,
 #sobre {
-  background-color: #6610f2;
+  background-color: #7289da;
 }
 .btn {
-  background-color: #6710f291;
+  background-color: #5b71c4;
+}
+
+.btn-w {
+  color: white;
+}
+.btn-w:hover {
+  background-color: #95a8eb;
+  color: white;
 }

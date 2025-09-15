@@ -9,7 +9,8 @@ Create table imovel (
 	disponibilidade boolean,
 	tipo VARCHAR(50) NOT NULL,
     endereco_fk INT,
-	FOREIGN KEY (endereco_fk) REFERENCES endereco(id) 
+	imagem VARCHAR(255),
+	FOREIGN KEY (endereco_fk) REFERENCES endereco(id)
 );
 
 create table usuario (

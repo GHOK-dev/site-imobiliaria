@@ -19,62 +19,87 @@
     <section class="page-section casas" id="casas">
         <div class="container">
             <h2 class="page-section-heading text-center text-uppercase text-secondary mb-3">Imóveis</h2>            
-            <div class="row justify-content-center">
+            <div class="row row-cols-3 justify-content-center">
+
                 <!-- casas Item 1-->
-                <div class="col-md-6 col-lg-4 mb-5">
-                    <div class="casas-item mx-auto" data-bs-toggle="modal" data-bs-target="#casasModal1">
-                        <div class="casas-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                            <div class="casas-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                        </div>
-                        <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="..." />
+                <div class="card col m-3" style="width: 18rem;">
+                    <img src="assets/img/portfolio/cabin.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Casa no Campo</h5>
+                        <p class="card-text">Casa localizada em um bosque em Campinas - São Paulo.</p>
+                    <a href="#" class="btn btn-primary">Ver mais</a>
                     </div>
                 </div>
+
                 <!-- casas Item 2-->
-                <div class="col-md-6 col-lg-4 mb-5">
-                    <div class="casas-item mx-auto" data-bs-toggle="modal" data-bs-target="#casasModal2">
-                        <div class="casas-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                            <div class="casas-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                        </div>
-                        <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="..." />
+                <div class="card col m-3" style="width: 18rem;">
+                    <img src="assets/img/portfolio/cabin.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Casa no Campo</h5>
+                        <p class="card-text">Casa localizada em um bosque em Campinas - São Paulo.</p>
+                    <a href="#" class="btn btn-primary">Ver mais</a>
                     </div>
                 </div>
+
                 <!-- casas Item 3-->
-                <div class="col-md-6 col-lg-4 mb-5">
-                    <div class="casas-item mx-auto" data-bs-toggle="modal" data-bs-target="#casasModal3">
-                        <div class="casas-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                            <div class="casas-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                        </div>
-                        <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="..." />
+                <div class="card col m-3" style="width: 18rem;">
+                    <img src="assets/img/portfolio/cabin.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Casa no Campo</h5>
+                        <p class="card-text">Casa localizada em um bosque em Campinas - São Paulo.</p>
+                    <a href="#" class="btn btn-primary">Ver mais</a>
                     </div>
                 </div>
+
                 <!-- casas Item 4-->
-                <div class="col-md-6 col-lg-4 mb-5 mb-lg-0">
-                    <div class="casas-item mx-auto" data-bs-toggle="modal" data-bs-target="#casasModal4">
-                        <div class="casas-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                            <div class="casas-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                        </div>
-                        <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="..." />
+                <div class="card col m-3" style="width: 18rem;">
+                    <img src="assets/img/portfolio/cabin.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Casa no Campo</h5>
+                        <p class="card-text">Casa localizada em um bosque em Campinas - São Paulo.</p>
+                    <a href="#" class="btn btn-primary">Ver mais</a>
                     </div>
                 </div>
+
                 <!-- casas Item 5-->
-                <div class="col-md-6 col-lg-4 mb-5 mb-md-0">
-                    <div class="casas-item mx-auto" data-bs-toggle="modal" data-bs-target="#casasModal5">
-                        <div class="casas-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                            <div class="casas-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                        </div>
-                        <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="..." />
+                <div class="card col m-3" style="width: 18rem;">
+                    <img src="assets/img/portfolio/cabin.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Casa no Campo</h5>
+                        <p class="card-text">Casa localizada em um bosque em Campinas - São Paulo.</p>
+                    <a href="#" class="btn btn-primary">Ver mais</a>
                     </div>
                 </div>
+
                 <!-- casas Item 6-->
-                <div class="col-md-6 col-lg-4">
-                    <div class="casas-item mx-auto" data-bs-toggle="modal" data-bs-target="#casasModal6">
-                        <div class="casas-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                            <div class="casas-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                        </div>
-                        <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="..." />
+                <div class="card col m-3" style="width: 18rem;">
+                    <img src="assets/img/portfolio/cabin.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Casa no Campo</h5>
+                        <p class="card-text">Casa localizada em um bosque em Campinas - São Paulo.</p>
+                    <a href="#" class="btn btn-primary">Ver mais</a>
                     </div>
                 </div>
-            </div>
+
+                <!-- casas Item 7-->
+                <div class="card col m-3" style="width: 18rem;">
+                    <img src="assets/img/portfolio/cabin.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Casa no Campo</h5>
+                        <p class="card-text">Casa localizada em um bosque em Campinas - São Paulo.</p>
+                    <a href="#" class="btn btn-primary">Ver mais</a>
+                    </div>
+                </div>
+
+                <!-- casas Item 8-->
+                <div class="card col m-3" style="width: 18rem;">
+                    <img src="assets/img/portfolio/cabin.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Casa no Campo</h5>
+                        <p class="card-text">Casa localizada em um bosque em Campinas - São Paulo.</p>
+                    <a href="#" class="btn btn-primary">Ver mais</a>
+                    </div>
+                </div>
         </div>
     </section>
 

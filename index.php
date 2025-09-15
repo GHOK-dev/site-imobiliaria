@@ -8,7 +8,7 @@
             <!-- Masthead Heading-->
             <h1 class="masthead-heading text-uppercase mb-3">ImobiFácil</h1>            
             <!-- Masthead Subheading-->
-            <p class="masthead-subheading font-weight-light mb-0">Venda e aluguel de casas e apartamentos</p>
+            <p class="masthead-subheading font-weight-light mb-0">Venda aluguel de casas e apartamentos</p>
         </div>
     </header>
 

@@ -26,7 +26,7 @@
                         <div class="casas-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                             <div class="casas-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="..." />
+                        <img class="img-fluid" src="assets\img\portfolio\discorda.png" alt="..." />
                     </div>
                 </div>
                 <!-- casas Item 2-->
@@ -35,7 +35,7 @@
                         <div class="casas-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                             <div class="casas-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="..." />
+                        <img class="img-fluid" src="assets\img\portfolio\discorda.png" alt="..." />
                     </div>
                 </div>
                 <!-- casas Item 3-->
@@ -44,7 +44,7 @@
                         <div class="casas-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                             <div class="casas-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="..." />
+                        <img class="img-fluid" src="assets\img\portfolio\discorda.png" alt="..." />
                     </div>
                 </div>
                 <!-- casas Item 4-->
@@ -53,7 +53,7 @@
                         <div class="casas-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                             <div class="casas-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="..." />
+                        <img class="img-fluid" src="assets\img\portfolio\discorda.png" alt="..." />
                     </div>
                 </div>
                 <!-- casas Item 5-->
@@ -62,7 +62,7 @@
                         <div class="casas-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                             <div class="casas-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="..." />
+                        <img class="img-fluid" src="assets\img\portfolio\discorda.png" alt="..." />
                     </div>
                 </div>
                 <!-- casas Item 6-->
@@ -71,7 +71,7 @@
                         <div class="casas-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                             <div class="casas-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="..." />
+                        <img class="img-fluid" src="assets\img\portfolio\discorda.png" alt="..." />
                     </div>
                 </div>
             </div>
@@ -98,7 +98,7 @@
             <div class="text-center mt-4">
                 <a class="btn btn-xl btn-outline-light" href="https://startbootstrap.com/theme/freelancer/">
                     <i class="fas fa-download me-2"></i>
-                    Free Download!
+                    La ele
                 </a>
             </div>
         </div>
@@ -126,26 +126,26 @@
                         <!-- Name input-->
                         <div class="form-floating mb-3">
                             <input class="form-control" id="name" type="text" placeholder="Enter your name..." data-sb-validations="required" />
-                            <label for="name">Full name</label>
+                            <label for="name">Nome Completo</label>
                             <div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
                         </div>
                         <!-- Email address input-->
                         <div class="form-floating mb-3">
                             <input class="form-control" id="email" type="email" placeholder="name@example.com" data-sb-validations="required,email" />
-                            <label for="email">Email address</label>
+                            <label for="email">Endereço de Email</label>
                             <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
                             <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
                         </div>
                         <!-- Phone number input-->
                         <div class="form-floating mb-3">
                             <input class="form-control" id="phone" type="tel" placeholder="(123) 456-7890" data-sb-validations="required" />
-                            <label for="phone">Phone number</label>
+                            <label for="phone">Numero de Telefone</label>
                             <div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.</div>
                         </div>
                         <!-- Message input-->
                         <div class="form-floating mb-3">
                             <textarea class="form-control" id="message" type="text" placeholder="Enter your message here..." style="height: 10rem" data-sb-validations="required"></textarea>
-                            <label for="message">Message</label>
+                            <label for="message">Mensagem</label>
                             <div class="invalid-feedback" data-sb-feedback="message:required">A message is required.</div>
                         </div>
                         <!-- Submit success message-->
@@ -154,7 +154,7 @@
                         <!-- has successfully submitted-->
                         <div class="d-none" id="submitSuccessMessage">
                             <div class="text-center mb-3">
-                                <div class="fw-bolder">Form submission successful!</div>
+                                <div class="fw-bolder">Form enviado com sucesso!</div>
                                 To activate this form, sign up at
                                 <br />
                                 <a href="https://startbootstrap.com/solution/contato-forms">https://startbootstrap.com/solution/contato-forms</a>
@@ -168,7 +168,7 @@
                             <div class="text-center text-danger mb-3">Error sending message!</div>
                         </div>
                         <!-- Submit Button-->
-                        <button class="btn btn-xl text-body-tertiary" id="submitButton" type="submit">Enviar</button>
+                        <button class="btn btn-w btn-xl text-body-tertiary" id="submitButton" type="submit">Enviar</button>
                     </form>
                 </div>
             </div>
@@ -228,7 +228,7 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- casas Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="assets/img/casas/cabin.png" alt="..." />
+                                <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cake.png" alt="..." />
                                 <!-- casas Modal - Text-->
                                 <?php   include('select-dados.php');   echo "<p class='mb-4'>".   htmlspecialchars($dado['descricao'])  ."</p>";    ?>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
@@ -260,7 +260,7 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- casas Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="assets/img/casas/cake.png" alt="..." />
+                                <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cake.png" alt="..." />
                                 <!-- casas Modal - Text-->
                                 <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
@@ -292,7 +292,7 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- casas Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="assets/img/casas/circus.png" alt="..." />
+                                <img class="img-fluid rounded mb-5" src="assets/img/portfolio/circus.png" alt="..." />
                                 <!-- casas Modal - Text-->
                                 <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
